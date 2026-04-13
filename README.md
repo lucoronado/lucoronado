@@ -36,15 +36,19 @@
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
+      <br>MATLAB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -53,5 +57,13 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
-    </tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/allan-m-f/my-icons/main/icons/labview.svg" width="48" height="48" alt="LabVIEW" />
+      <br>LabVIEW
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/allan-m-f/my-icons/main/icons/simulink.svg" width="48" height="48" alt="Simulink" />
+      <br>Simulink
+    </td>
+  </tr>
 </table>
