@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Lu Coronado 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ingeniera+Mecatrónica;Entusiasta+de+la+Robótica+y+Automatización;Explorando+IA+y+Machine+Learning&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=A020F0" alt="Ingeniera Mecatrónica">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
-<hr>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <table border="0">
   <tr>
