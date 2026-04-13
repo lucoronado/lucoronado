@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mapa Ruiz 👋</h1>
 
-<!--
-**lucoronado/lucoronado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A020F0&center=true&vCenter=true&width=150&lines=A+Sys" alt="A Sys" />
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>
+          💡 I like to explore and understand new technologies.
+        </li>
+        <li>
+          🌱 I'm on track for learning more about Generative AI & ML engineering.
+        </li>
+        <li>
+          💬 Feel free to reach out to me for an internship, or just for some interesting discussion.
+        </li>
+      </ul>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&langs_count=8&theme=radical&hide=jupyter-notebook,makefile,c" alt="Mis Lenguajes de Programación" />
+      </a>
+      
+      </td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>🛠️ Tech Stack</h3>
