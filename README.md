@@ -8,13 +8,13 @@
  <h3>🚀 About Me</h3>
       <ul>
         <li>
-          💡 I like to explore and understand new technologies.
+          💡 Mechatronics Engineer with an emphasis on Electronic Systems, specialized in process automation and virtual environment simulation.
         </li>
         <li>
-          🌱 I'm on track for learning more about Generative AI & ML engineering.
+          🛠️ Passionate about embedded systems, robotics, and industrial automation, with hands-on experience in PLCs, SCADA, and robotic arms (Mitsubishi & Universal Robots).
         </li>
         <li>
-          💬 Feel free to reach out to me for an internship, or just for some interesting discussion.
+          🧠 Focused on integrating AI and Machine Learning for the design of sensing and monitoring systems to optimize complex processes.
         </li>
       </ul>
 <hr>
