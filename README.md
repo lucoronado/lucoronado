@@ -58,11 +58,11 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/allan-m-f/my-icons/main/icons/labview.svg" width="48" height="48" alt="LabVIEW" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="48" height="48" alt="LabVIEW" />
       <br>LabVIEW
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/allan-m-f/my-icons/main/icons/simulink.svg" width="48" height="48" alt="Simulink" />
+      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Simulink" />
       <br>Simulink
     </td>
   </tr>
