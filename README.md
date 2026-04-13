@@ -40,8 +40,8 @@
       <br>MATLAB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Simulink" />
+      <br>Simulink
     </td>
   </tr>
   <tr>
@@ -62,8 +62,8 @@
       <br>LabVIEW
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Simulink" />
-      <br>Simulink
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
 </table>
