@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mapa Ruiz 👋</h1>
+<h1 align="center">Hi, I'm Lu Coronado 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=A020F0&center=true&vCenter=true&width=150&lines=A+Sys" alt="A Sys" />
